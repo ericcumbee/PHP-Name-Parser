@@ -1,4 +1,4 @@
-<?php namespace ericcumbee\phpNameParser;
+<?php namespace joshfraser\phpNameParser;
 
 
 
